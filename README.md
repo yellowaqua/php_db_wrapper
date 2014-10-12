@@ -18,3 +18,6 @@ The PDO Wrapper class can be used on the following systems:
 
 php.ini edit
 > extension=php_pdo_sqlsrv_54_nts.dll
+
+# How To Use
+read test.php
