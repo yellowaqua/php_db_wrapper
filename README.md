@@ -11,11 +11,10 @@ The ODBC Wrapper class can be used on the following systems:
 * SQL Server 2012
 
 
-
 The PDO Wrapper class can be used on the following systems:
 * PHP5.4 on Windows Server2012
 * SQL Server 2012
 (must use Microsoft Drivers 3.0 for SQL Server for PHP)
 
-php.ini add write
+php.ini edit
 > extension=php_pdo_sqlsrv_54_nts.dll
